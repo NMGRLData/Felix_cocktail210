@@ -24,7 +24,7 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.0004509019425643439,
+        "error": 0.0004091054797830724,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -68,7 +68,7 @@
                 "uuid": "6f80f06f-3a05-4479-868b-5bc02d1d6884"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-278",
                 "uuid": "f4a539a5-de8b-4702-92f2-c9be64486de2"
             },
@@ -133,7 +133,7 @@
                 "uuid": "1b34983b-c8a5-4d64-8f14-062d01f6ccdc"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-291",
                 "uuid": "4fdd97c5-b930-417a-b745-e747ebfa7467"
             },
@@ -148,7 +148,7 @@
                 "uuid": "8dc63ca6-8020-4ee4-b93c-1b36046486f0"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-03-F-294",
                 "uuid": "5d57ab9e-42c8-4989-adee-2eecf4995c0e"
             },
@@ -174,6 +174,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0017913382967323
+        "value": 1.0016710244718465
     }
 }
