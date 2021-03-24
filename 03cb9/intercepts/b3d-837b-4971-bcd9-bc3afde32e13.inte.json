@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0004685206566379618,
+        "error": 0.0002480177844966196,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,7 +9,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
+        "fit": "linear",
         "fn": 337,
         "include_baseline_error": false,
         "n": 340,
@@ -20,7 +20,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.025875660063948973
+        "value": 0.0258936745801109
     },
     "Ar37": {
         "error": 0.015839401787802125,
@@ -32,7 +32,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "linear",
         "fn": 337,
         "include_baseline_error": false,
         "n": 340,
@@ -55,7 +55,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
+        "fit": "linear",
         "fn": 338,
         "include_baseline_error": false,
         "n": 340,
@@ -68,7 +68,7 @@
         "value": 0.9082543486466756
     },
     "Ar39": {
-        "error": 0.02171855939817003,
+        "error": 0.011479321636986345,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -77,7 +77,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
+        "fit": "linear",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -86,7 +86,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 63.14942294266457
+        "value": 63.16005890698028
     },
     "Ar40": {
         "error": 0.061749145925994335,
@@ -98,7 +98,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
+        "fit": "parabolic",
         "fn": 340,
         "include_baseline_error": false,
         "n": 340,
