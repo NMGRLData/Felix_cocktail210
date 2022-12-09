@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0004885999818680673,
+        "error": 0.0004885999818680562,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.023537937102401575
+        "value": 0.023537937102401613
     },
     "Ar37": {
-        "error": 0.015075439649573488,
+        "error": 0.015075439649573483,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -39,10 +39,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.09858234267549865
+        "value": 0.09858234267549856
     },
     "Ar38": {
-        "error": 0.005779896422554626,
+        "error": 0.005779896422554625,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -58,10 +58,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.79120101304162
+        "value": 0.7912010130416205
     },
     "Ar39": {
-        "error": 0.011155310277362602,
+        "error": 0.02104813074189566,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,21 +70,20 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 337,
+        "fit": "parabolic",
+        "fn": 338,
         "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             132,
-            133,
             270
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 56.50147675725033
+        "value": 56.546098880991636
     },
     "Ar40": {
-        "error": 0.0751553650656252,
+        "error": 0.07515536506562173,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -105,6 +104,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 382.20699166941074
+        "value": 382.2069916694102
     }
 }
