@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0002460438293770407,
+        "error": 0.00046916325264684093,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,19 +9,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 339,
+        "fit": "parabolic",
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            98
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0232492719792536
+        "value": 0.02422423974736185
     },
     "Ar37": {
-        "error": 0.029489539503988887,
+        "error": 0.02948953950398888,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -40,10 +38,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.12991394539749151
+        "value": 0.12991394539749146
     },
     "Ar38": {
-        "error": 0.005181611417920106,
+        "error": 0.005181611417920104,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -66,7 +64,7 @@
         "value": 0.774137260210968
     },
     "Ar39": {
-        "error": 0.02487755048480915,
+        "error": 0.02487755048481236,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -85,10 +83,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 55.9184563476377
+        "value": 55.918456347637814
     },
     "Ar40": {
-        "error": 0.08338069496617573,
+        "error": 0.08338069496615487,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -107,6 +105,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 377.8875866100408
+        "value": 377.88758661004016
     }
 }
